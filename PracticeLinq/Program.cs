@@ -10,6 +10,7 @@
         "Prince Of Persia: The Sands Of Time" };
 
 
+
 Console.WriteLine("1st try: using a foreach loop:");
 Console.WriteLine("");
 
@@ -20,8 +21,11 @@ foreach (var game in LengthOfGameName)
     Console.WriteLine(game);
 }
 
+
 Console.WriteLine("");
 Console.WriteLine("");
+
+
 Console.WriteLine("2nd try: using just LINQ:");
 Console.WriteLine("");
 
