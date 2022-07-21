@@ -1,0 +1,15 @@
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/bin/Debug/net6.0/PracticeLinq
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/bin/Debug/net6.0/PracticeLinq.deps.json
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/bin/Debug/net6.0/PracticeLinq.runtimeconfig.json
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/bin/Debug/net6.0/PracticeLinq.dll
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/bin/Debug/net6.0/PracticeLinq.pdb
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net6.0/PracticeLinq.csproj.AssemblyReference.cache
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net6.0/PracticeLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net6.0/PracticeLinq.AssemblyInfoInputs.cache
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net6.0/PracticeLinq.AssemblyInfo.cs
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net6.0/PracticeLinq.csproj.CoreCompileInputs.cache
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net6.0/PracticeLinq.dll
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net6.0/refint/PracticeLinq.dll
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net6.0/PracticeLinq.pdb
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net6.0/PracticeLinq.genruntimeconfig.cache
+/Users/danielpellatt/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net6.0/ref/PracticeLinq.dll
